@@ -186,7 +186,7 @@ c. go to live manifest, and edit “image” parameter’s ending to the wanted 
 d. deployment will start and you can monitor it
 e. after deployment, edit the “image” parameter’s ending in live manifest back to “latest”
 
-#Logs
+# Logs
 Logs can be found from ArgoCD.  
 
 Select the application (vacationer-qa / vacationer), then pod (frontend or backend) and then LOGS tab.
